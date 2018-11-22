@@ -4,5 +4,6 @@ namespace TestingTravis
 {
     public class Class1
     {
+
     }
 }
